@@ -20,4 +20,5 @@
 * git log --graph - просмотр логов коммитов с визуализацией
 * git reset commit - возврат к определенному коммиту, откат изменений
 * git reset --hard commit - стереть коммит и изменения
-* git reset --soft commit
+
+## 3 Семинар
